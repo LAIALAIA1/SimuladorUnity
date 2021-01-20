@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 10603d9f2d4934e00ab93314140d85c5
+labels:
+- Ped
+- Ai
+- NavMesh
+- Pedestrian
+- Npc
+- Agent
+timeCreated: 1429816334
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
